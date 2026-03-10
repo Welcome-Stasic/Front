@@ -16,7 +16,7 @@ function SecondTask() {
   return (
     <>
       <hr />
-      <label>Первое число 11:</label>
+      <label>Первое число 1:</label>
       <br />
       <input
         type="number"
