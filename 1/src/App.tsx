@@ -10,11 +10,11 @@ import FTask2 from "./Tasks/SecondTasks/4";
 function App() {
   return (
     <>
-      <h1>Первое задание 1:</h1>
+      <h1>задание 1:</h1>
       <FirstTask />
       <SecondTask />
       <ThirdTask />
-      <h1>Второе задание 2:</h1>
+      <h1>задание 2:</h1>
       <FirstTask2 />
       <SecondTask2 />
       <ThirdTask2 />
